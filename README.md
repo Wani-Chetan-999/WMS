@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Waste Management System](https://waste-managemnt-system.000webhostapp.com/)
 
 In today's world, effective waste management is of paramount importance. The increasing volume of waste poses significant challenges to the environment and public health. Proper waste management not only mitigates these challenges but also promotes resource reuse and recycling. The Waste Management System is a digital platform designed to streamline the process of reporting waste-related issues to municipal authorities.
@@ -66,3 +67,7 @@ Thanks to all the contributors who have helped improve this project.
 - [Learning Resources](LEARN.md): Explore tutorials, guides, and documentation to learn more about the Waste Management System project and related technologies.
 - [Contributing Guidelines](CONTRIBUTING.md): Read the guidelines for contributing to the Waste Management System project and how you can get involved.
 - [Code of Conduct](CODE_OF_CONDUCT.md): Review the Code of Conduct to understand the expected behavior and guidelines for participating in the Waste Management System community.
+=======
+# WMS
+Waste Management System aim to Clean Nature
+>>>>>>> 15a0a288335266b9a741eaf55985260ab78d605d
