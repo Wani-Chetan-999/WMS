@@ -50,7 +50,7 @@ Here are some sample screenshots from the project demonstrating core functionali
 * Overview of the system
 * Clean UI with navigation links
 
-![Home Page](https://your-image-link.com/homepage.png)
+![Home Page](https://github.com/Wani-Chetan-999/WMS/blob/main/assets/img/main.png)
 
 ---
 
@@ -59,7 +59,7 @@ Here are some sample screenshots from the project demonstrating core functionali
 * Form to submit waste reports with photo upload
 * Fields for location, description, and category
 
-![Report Page](https://your-image-link.com/report.png)
+![Report Page](https://github.com/Wani-Chetan-999/WMS/blob/main/assets/img/Home.png)
 
 ---
 
@@ -68,7 +68,7 @@ Here are some sample screenshots from the project demonstrating core functionali
 * View all submitted complaints
 * Update status: Pending, In Progress, Resolved
 
-![Admin Dashboard](https://your-image-link.com/admin.png)
+![Admin Dashboard](https://github.com/Wani-Chetan-999/WMS/blob/main/assets/img/status_admin.png)
 
 ---
 
@@ -77,7 +77,7 @@ Here are some sample screenshots from the project demonstrating core functionali
 * Users can check the status of their complaints
 * Updates shown dynamically
 
-![Tracking](https://your-image-link.com/tracking.png)
+![Tracking](https://github.com/Wani-Chetan-999/WMS/blob/main/assets/img/Preview-Complain.png)
 
 ---
 
